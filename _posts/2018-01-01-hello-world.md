@@ -10,11 +10,3 @@ Hello Everyone!
 
 This is Sample Page!
 
----
-published: true
-layout: single
-title: "first posting"
-category: post
-tags:
-comments: true
----

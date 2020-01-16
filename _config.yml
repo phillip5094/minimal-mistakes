@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "phillip5094" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "Philip" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "phillip5094"
+  name             : "Philip"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Bundang"
+  email            : "phillip0726@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -100,9 +100,9 @@ preventDefault : 기본적인 동작을 취소한다 (ex. 링크 이동 차단)
 
 ### CSS
 
-display : 제일 중요!!! -> 구조에서 없어짐
-id : 1 대 1
-class : 다 대 다 (디자인 적용)
+* display : 제일 중요!!! -> 구조에서 없어짐
+* id : 1 대 1
+* class : 다 대 다 (디자인 적용)
 
 ### 엘리먼트 노드
 * firstChild

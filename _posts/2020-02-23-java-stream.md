@@ -50,7 +50,6 @@ Stream은 4종류가 있다.
 
 ### 중간 처리
 전달받은 Stream을 중간 처리하고 처리된 Stream을 반환한다.<br>
-<img src="https://github.com/phillip5094/phillip5094.github.io/blob/master/imgs/stream_pipeline.png" width="70%"/><br>
 대표적인 중간 처리 연산을 소개하겠습니다.<br>
 
 - distinct<br>
@@ -130,7 +129,7 @@ list.stream()                                   // Stream 생성
     .forEach(n -> System.out.println(n));       // 추출된 element 출력
 ```
 
-<참고자료 및 서적><br>
+참고자료 및 서적<br>
 https://docs.oracle.com/javase/8/docs/api/index.html?java/util/stream/package-summary.html<br>
 https://palpit.tistory.com/648<br>
 신용권,이것이 자바다,한빛미디어,2015

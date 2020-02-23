@@ -50,7 +50,7 @@ Stream은 4종류가 있다.
 
 ### 중간 처리
 전달받은 Stream을 중간 처리하고 처리된 Stream을 반환한다.<br>
-<img src="https://github.com/phillip5094/phillip5094.github.io/blob/master/imgs/stream_pipeline.png" width="70%"></img><br>
+<img src="https://github.com/phillip5094/phillip5094.github.io/blob/master/imgs/stream_pipeline.png" width="70%"/><br>
 대표적인 중간 처리 연산을 소개하겠습니다.<br>
 
 - distinct<br>

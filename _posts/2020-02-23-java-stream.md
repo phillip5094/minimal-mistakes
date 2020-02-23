@@ -131,5 +131,4 @@ list.stream()                                   // Stream 생성
 
 참고자료 및 서적<br>
 https://docs.oracle.com/javase/8/docs/api/index.html?java/util/stream/package-summary.html<br>
-https://palpit.tistory.com/648<br>
 신용권,이것이 자바다,한빛미디어,2015

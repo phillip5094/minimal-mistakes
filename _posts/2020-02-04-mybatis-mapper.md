@@ -86,4 +86,4 @@ resultMap에서 property와 column을 mapping 시킬 때 사용하는 엘리먼�
 
 
 
-출처 : https://mybatis.org/mybatis-3/sqlmap-xml.html#Result_Maps
+ : https://mybatis.org/mybatis-3/sqlmap-xml.html#Result_Maps

@@ -2,7 +2,7 @@
 title: "[Xcode] SceneDelegate를 없애고 iOS App 실행하기"
 categories: 
   - iOS
-last_modified_at: 2020-04-20T13:00:00+09:00
+last_modified_at: 2020-04-20T13:00:00+00:00
 
 toc: true
 ---

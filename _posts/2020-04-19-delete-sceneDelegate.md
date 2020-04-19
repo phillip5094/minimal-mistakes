@@ -2,11 +2,11 @@
 title: "[Xcode] SceneDelegate를 없애고 iOS App 실행하기"
 categories: 
   - iOS
-last_modified_at: 2020-04-20T00:00:00+00:00
+last_modified_at: 2020-04-19T13:00:00+09:00
 
 toc: true
 ---
-2020.04.20
+2020.04.19
 
 Xcode11부터 iOS App 프로젝트를 생성하면 기본적으로 SceneDelegate가 적용된 템플릿이 생성됩니다. 이번 글에서는 SceneDelegate를 사용하지 않고 iOS App을 빌드하는 방법을 적겠습니다. 첨부하는 이미지는 Objective-C 기반의 프로젝트 바탕입니다.
 

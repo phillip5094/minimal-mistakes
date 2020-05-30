@@ -19,7 +19,12 @@ toc: true
 
 ```
 Unity-iPhone has conflicting provisioning settings.
-Unity-iPhone is automatically signed for development, but a conflicting code signing identity iPhone Distribution has been manually specified. Set the code signing identity value to "iPhone Developer" in the build settings editor, or switch to manual signing in the Signing & Capabilities editor.
+Unity-iPhone is automatically signed for 
+development, but a conflicting code signing identity 
+iPhone Distribution has been manually specified. 
+Set the code signing identity value to "iPhone 
+Developer" in the build settings editor, or switch to 
+manual signing in the Signing & Capabilities editor.
 ```
 
 ## 해결방법

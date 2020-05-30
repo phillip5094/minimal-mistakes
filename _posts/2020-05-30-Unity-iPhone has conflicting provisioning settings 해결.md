@@ -7,6 +7,8 @@ last_modified_at: 2020-05-30T13:00:00+09:00
 
 toc: true
 ---
+2020.05.30
+
 
 ## 이슈
 * Unity 빌드 시 Signing&Capabilities에서 Automatically managing signing 체크박스 선택 시 에러 발생

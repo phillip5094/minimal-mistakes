@@ -14,7 +14,7 @@ toc: true
 
 &nbsp; WKWebView에서 키보드가 올라왔을 때 키보드 때문에 내용이 가려지게 된다. 아래 코드를 viewController에 구현을 해주면, 키보드가 올라올 때 그 만큼 웹뷰도 함께 올라가게 된다.
 
-```
+```objectivec
 // Call this method somewhere in your view controller setup code.
 - (void)registerForKeyboardNotifications
 {

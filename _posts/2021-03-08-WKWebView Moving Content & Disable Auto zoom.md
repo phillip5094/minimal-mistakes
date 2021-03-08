@@ -67,5 +67,6 @@ toc: true
 ```
 
 ### 참고링크
-* https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/KeyboardManagement/KeyboardManagement.html
-* https://rick38yip.medium.com/disable-wkwebview-zoom-when-clicking-on-text-input-html-fields-by-injecting-css-5372adc1ae97
+* [Moving Content That Is Located Under the Keyboard
+](https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS/KeyboardManagement/KeyboardManagement.html)
+* [Disable WKWebView zoom](https://rick38yip.medium.com/disable-wkwebview-zoom-when-clicking-on-text-input-html-fields-by-injecting-css-5372adc1ae97)

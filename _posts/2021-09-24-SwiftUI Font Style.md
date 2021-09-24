@@ -14,5 +14,5 @@ toc: true
 
 * SwiftUI Font Style 간 차이를 한눈에 알아보자
 
-<img src="https://github.com/phillip5094/phillip5094.github.io/blob/master/imgs/SwiftUI_Font_Style.png?raw=true">
+<img src="https://raw.githubusercontent.com/phillip5094/phillip5094.github.io/master/imgs/SwiftUI_Font_Style.png"/>
 

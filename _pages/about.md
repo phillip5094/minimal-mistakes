@@ -2,10 +2,11 @@
 permalink: /about/
 title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-last_modified_at: 2020-03-18T12:04:24-04:00
+last_modified_at: 2021-11-07T12:04:24-04:00
 toc: true
 ---
 
-### 근무지 : 경기도 성남시 분당구 대왕판교로645번길 16 (삼평동, NHN)	9층
-### 근무시간 : 09:30 ~ 18:30
+### Experience
+* iOS Platform Developer at NHN (2020.01 ~ )
+
 ---
